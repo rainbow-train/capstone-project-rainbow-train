@@ -9,5 +9,6 @@ library(readr)
 ```
 
 ```{r}
-data_in <- read_csv("data-tidy/")
+#| eval: false
+data_in <- read_csv("")
 ```
